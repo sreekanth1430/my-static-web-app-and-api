@@ -19,6 +19,7 @@ const routes: Routes = [
   declarations: [
     ProductsComponent,
     ProductListComponent,
+    
     ProductDetailComponent,
   ],
 })
